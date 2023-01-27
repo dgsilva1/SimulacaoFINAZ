@@ -1,0 +1,66 @@
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.AssemblyReference.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.AssemblyInfoInputs.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.AssemblyInfo.cs
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.CoreCompileInputs.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\appsettings.json
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.exe
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.deps.json
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.runtimeconfig.json
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.runtimeconfig.dev.json
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.pdb
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\scopedcss\bundle\TaskTecherDiogo2.styles.css
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\TaskTecherDiogo2.StaticWebAssets.Manifest.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\TaskTecherDiogo2.StaticWebAssets.Pack.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.TaskTecherDiogo2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.build.TaskTecherDiogo2.props
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TaskTecherDiogo2.props
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TaskTecherDiogo2.props
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.RazorTargetAssemblyInfo.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.CopyComplete
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\refint\TaskTecherDiogo2.dll
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.pdb
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.genruntimeconfig.cache
+C:\Users\dgsil\source\repos\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\ref\TaskTecherDiogo2.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\appsettings.json
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.exe
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.deps.json
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.runtimeconfig.json
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.runtimeconfig.dev.json
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\TaskTecherDiogo2.pdb
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.AssemblyReference.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.AssemblyInfoInputs.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.AssemblyInfo.cs
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.CoreCompileInputs.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\scopedcss\bundle\TaskTecherDiogo2.styles.css
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\TaskTecherDiogo2.StaticWebAssets.Manifest.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\TaskTecherDiogo2.StaticWebAssets.Pack.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.TaskTecherDiogo2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.build.TaskTecherDiogo2.props
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TaskTecherDiogo2.props
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TaskTecherDiogo2.props
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.RazorTargetAssemblyInfo.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.csproj.CopyComplete
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\refint\TaskTecherDiogo2.dll
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.pdb
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\TaskTecherDiogo2.genruntimeconfig.cache
+C:\Users\dgsil\OneDrive\Área de Trabalho\TaskTecherDiogo2\TaskTecherDiogo2\obj\Debug\net5.0\ref\TaskTecherDiogo2.dll
